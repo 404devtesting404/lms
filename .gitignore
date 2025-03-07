@@ -1,0 +1,17 @@
+
+# Laravel Specific
+/vendor
+/vendor/
+/public/
+/node_modules/
+/storage/
+/bootstrap/cache/
+.env
+.env.example
+.env.backup
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+*.cache
