@@ -7,6 +7,8 @@ use App\Repositories\LocationRepo;
 use App\Repositories\MyClassRepo;
 use Illuminate\Support\Facades\Auth;
 
+
+// test one
 class AjaxController extends Controller
 {
     protected $loc, $my_class;
